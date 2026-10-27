@@ -1,0 +1,12 @@
+{
+  "name": "patch-api-practice",
+  "version": "1.0.0",
+  "description": "11 Express PATCH API practice questions using static data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
